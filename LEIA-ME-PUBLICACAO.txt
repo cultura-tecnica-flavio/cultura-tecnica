@@ -1,0 +1,15 @@
+CULTURA TÉCNICA — PACOTE PARA PUBLICAÇÃO NO GITHUB PAGES
+
+Conteúdo:
+- index.html: versão atualizada do site, preservando as seções e identidade visual existentes.
+- modelos/: quatro modelos técnicos editáveis em Word para download.
+
+PUBLICAÇÃO:
+1. Faça uma cópia de segurança do repositório atual.
+2. No repositório GitHub Pages, substitua o index.html pelo deste pacote.
+3. Envie também a pasta modelos/ completa, mantendo os nomes dos arquivos.
+4. Faça commit das alterações e aguarde a atualização do GitHub Pages.
+5. Teste no site os quatro botões de download em computador e celular.
+
+OBSERVAÇÃO:
+Os documentos são demonstrativos. A publicação não significa que sejam laudos emitidos ou conclusões sobre qualquer empresa. Para cada serviço real, preencher com dados verificados, fazer as avaliações necessárias, conferir normas vigentes e validar responsabilidade técnica/ART.
